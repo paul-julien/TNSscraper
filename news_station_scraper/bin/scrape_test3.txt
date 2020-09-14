@@ -1,0 +1,149 @@
+[{'Headline': "6 'newborn' puppies found dead with their paws tied together in "
+              'Simcoe, Ont.',
+  'Keywords': 'legs, said, ont, crime, opp',
+  'Link': 'https://www.cbc.ca/news/canada/hamilton/6-newborn-puppies-found-dead-with-their-paws-tied-together-in-simcoe-ont-1.5086495',
+  'Summary': 'Provincial police in Norfolk County are investigating after six '
+             'puppies were found dead with their hind\xa0legs tied together. A '
+             'woman who was walking her own dog at a fenced-in, abandoned '
+             'property along Hume Street in Simcoe, Ont.  stumbled across what '
+             'the OPP described as the\xa0"gruesome discovery" on Thursday, '
+             'said Const. Sanchuk\xa0said the puppies are in an "advanced '
+             'state of decomposition" so it\'s difficult to tell what breed '
+             "they are, but they appear to be newborns and it's clear their "
+             'rear legs are tied together with rope or twine. "Anyone with '
+             'information that may know someone that recently had a litter of '
+             "puppies, maybe five or six of them and they don't know what "
+             'happened to those puppies … is being urged to contact Crime '
+             'Stoppers and the Norfolk County OPP," he said. '},
+ {'Headline': 'SpokAnimal closes dog kennel for quarantine after five puppies '
+              'adopted at Pet Expo diagnosed with contagious parvovirus; all '
+              'alive',
+  'Keywords': 'peck said, puppies, pet, dog',
+  'Link': 'https://www.spokesman.com/stories/2019/apr/05/spokanimal-closes-dog-kennel-for-quarantine-after-/',
+  'Summary': 'UPDATED: Fri. , April 5, 2019 SpokAnimal, an adoption agency now '
+             'caring for five puppies adopted during a weekend pet expo that '
+             'were diagnosed this week with the contagious, sometimes deadly '
+             'canine parvovirus, has closed its dog kennel for quarantine. “We '
+             'are cleaning and deep cleaning. ” Peck said Friday the kennel '
+             'will be closed for at least 10 days. That means all dog '
+             'transfers will go on hold, Peck said, including shipments from '
+             'regional and out-of-state shelters. The puppies, heeler mixes, '
+             'all came from the same litter brought in by a local man, said '
+             'Peck. The incubation period for parvovirus typically stretches '
+             'up to two weeks, according to Lindsey Soffes, regional director '
+             'of SCRAPS, and puppies are most susceptible because their immune '
+             'systems aren’t fully developed and  don’t yet have all the '
+             'proper vaccinations. Peck said Friday there’s no evidence to '
+             'suggest the virus spread beyond the five original puppies. '},
+ {'Headline': 'Sultan: A case for babies before puppies',
+  'Keywords': 'aisha, dog, kids, teenage, time',
+  'Link': 'https://www.stltoday.com/lifestyles/parenting/aisha-sultan/sultan-a-case-for-babies-before-puppies/article_d108869d-2d35-5ab4-9fb7-18dc0ab09e80.html',
+  'Summary': 'After being shamed by other more experienced dog owners for '
+             'going overboard and worried that I was ruining our puppy, I let '
+             'him spend one night alone. When kids enter the teenage years is '
+             "an ideal time to think about getting a puppy. Aisha Sultan's "
+             "puppy, Frankie, turns 1. Aisha Sultan's puppy, Frankie, turns 1. "
+             "Aisha Sultan's puppy, Frankie, turns 1. Aisha Sultan's puppy, "
+             "Frankie, turns 1. Aisha Sultan's puppy, Frankie, turns 1. Aisha "
+             "Sultan's puppy, Frankie, turns 1. Aisha Sultan's puppy, Frankie, "
+             "turns 1. Aisha Sultan's puppy, Frankie, turns 1. Aisha Sultan's "
+             "puppy, Frankie, turns 1. Aisha Sultan's puppy, Frankie, turns 1. "
+             "Aisha Sultan's puppy, Frankie, turns 1. Aisha Sultan's puppy, "
+             "Frankie, turns 1. Aisha Sultan's puppy, Frankie, turns 1. Aisha "
+             "Sultan's puppy, Frankie, turns 1. Aisha Sultan's puppy, Frankie, "
+             "turns 1. Aisha Sultan's puppy, Frankie, turns 1. Aisha Sultan's "
+             "puppy, Frankie, turns 1. Aisha Sultan's puppy, Frankie, turns "
+             '1. '},
+ {'Headline': 'Officials: Dog owners used pruning shears to illegally operate '
+              "on puppy's ears",
+  'Keywords': 'acs, puppy, case, animal, owner',
+  'Link': 'https://www.wxii12.com/article/officials-dog-owners-used-pruning-shears-to-illegally-operate-on-puppys-ears/27055319',
+  'Summary': 'Animal Care Services cruelty investigators in Texas are seeking '
+             'more information concerning two unrelated cases where dog owners '
+             'sliced off part of the ears of pit bull puppies instead of '
+             'taking the dogs to a licensed veterinarian for the surgical '
+             'procedure. A resident called ACS about the first case that took '
+             'place on March 14 in the backyard of a San Antonio home. The '
+             'second case took place in the living room of a West Side home '
+             'around March 24. ACS officers were able to verify the second '
+             'case after pictures of the bloodied puppy “Sancho” were posted '
+             'on a Facebook page by the owner. “I hope that other people get '
+             'away from playing doctor and leave animal surgeries to the '
+             'veterinarians. ” ACS assistant director Shannon Sims said the '
+             'practice of cropping ears is not illegal but it is unlawful in '
+             'Texas for non-licensed veterinarians to perform the operation. '},
+ {'Headline': 'Pets on 2: Brother and sister puppies ready for adoption at Pet '
+              'Helpers',
+  'Keywords': 'broadcast, run, pet, meet',
+  'Link': 'https://www.counton2.com/pets-on-2/pets-on-2-brother-and-sister-puppies-ready-for-adoption-at-pet-helpers/1902436348/',
+  'Summary': 'CHARLESTON, S. C. (WCBD) – Meet Azalea!She is one of eleven '
+             'puppies that have not been adopted at Pet Helps. Her brother, '
+             'Alden, is also available for adoption right now. Both sweet pups '
+             'are just 10 weeks old!They are lab/shepherd mix and ready to '
+             'start their life in a loving home. If you are interested in '
+             'Azalea or Alden, give Pet Helpers a call at 843-795-1110. Pet '
+             'Helpers will have other adoption opportunities around town this '
+             'weekend, including the Bridge Run Expo on Friday and Flowertown '
+             'Festival on Saturday. Copyright 2020 Nexstar Broadcasting, Inc.  '
+             'All rights reserved. This material may not be published, '
+             'broadcast, rewritten, or redistributed. '},
+ {'Headline': 'Puppy Junction store prepares debut',
+  'Keywords': 'rescued, goodwin, white, adoption, dog',
+  'Link': 'https://www.vnews.com/New-Adoption-Volunteer-and-Education-Center-Puppy-Junction-Coming-to-WRJ-24559767',
+  'Summary': 'Aimee Goodwin snuggles with one of the rescue puppies she helped '
+             'bring to Vermont from Puerto Rico at her home in Norwich, '
+             'Friday, Nov.  17, 2017. WHITE RIVER JUNCTION — A Norwich woman '
+             'who started rescuing stray dogs from Puerto Rico three years ago '
+             'has her eyes set on her next venture: an adoption, volunteer and '
+             'education center in downtown White River Junction. Aimee Goodwin '
+             'has plans to open Puppy Junction next month, a storefront that '
+             'will give the nonprofit Student Rescue Project a place to '
+             'showcase rescued dogs that are up for adoption in the Upper '
+             'Valley. For the past three years, the rescued dogs go into '
+             'foster homes after arriving in the Upper Valley while the '
+             'adoption process is carried out. “Every time we place a dog in a '
+             'home it brings in the funds and opens up availability to get '
+             'another dog off the street,” said Goodwin, who also owns Canine '
+             'Mountain Adventures, a dog walking and socialization business in '
+             'Norwich. '},
+ {'Headline': 'Puppy perishes in house fire',
+  'Keywords': 'friday, burlington, firefighters arrived, police',
+  'Link': 'https://www.thehawkeye.com/news/20190405/puppy-perishes-in-house-fire',
+  'Summary': 'No one was home when firefighters arrived at the scene Friday. '
+             'Firefighters rescued a dog and three puppies from a Burlington '
+             'house where smoke was reported Friday afternoon. Deputy '
+             'Burlington Fire Chief Don Ryan said the house at 644 Higbee '
+             'Ave.  sustained significant smoke and water damage. Ryan said '
+             'the occupants were not home when the fire was reported at 5:18 '
+             'p. m.  Friday, but arrived on the scene after firefighters '
+             'arrived. Additional information was not available, and reports '
+             "of children being in the home and taken to a neighbor's at "
+             'around the time the blaze was reported could not be confirmed by '
+             'Burlington fire or police sources. Burlington Police Sgt.  Eric '
+             'Short said a summons to the Iowa Department of Human Resources '
+             "is routine in cases when parents' whereabouts is not known. He "
+             'said the parents arrived at the scene at about the same time as '
+             'DHS. All rights reserved. '},
+ {'Headline': 'Endangered Wolf Center Studies Why Captive African Painted ...',
+  'Keywords': 'mossotti, scientist, dogs, different, said',
+  'Link': 'https://news.stlpublicradio.org/post/endangered-wolf-center-studies-why-captive-african-painted-dogs-look-different-wild-ones',
+  'Summary': 'Earlier this year, the Endangered Wolf Center in Eureka had its '
+             'first litter of African painted dog puppies, giving researchers '
+             'a chance to compare how they develop in captivity versus the '
+             'wild. Conservationists have noticed differences in appearances '
+             'between captive and wild populations, said Regina Mossotti, '
+             'director of animal care and conservation at the Endangered Wolf '
+             'Center. “Their leg lengths and facial features are different '
+             'from the captive to the wild, and we’re researching why that '
+             'is,” Mossotti said. Scientists suspect that’s because captive '
+             'and wild dogs have different feeding habits. The center has had '
+             'African painted dogs since 2003. The staff at the Endangered '
+             'Wolf Center can tell the puppies apart, since each one has '
+             'different patterns — like a fingerprint, Mossotti said. The '
+             'center works with world-renowned painted dog scientist Greg '
+             'Rasmussen, who has studied the species for more than 30 years. '},
+ {'Headline': 'Dog area of Spokanimal closed until April 15 after 5 puppies '
+              '...',
+  'Keywords': '',
+  'Link': 'https://www.krem.com/video/news/local/spokane-county/dog-area-of-spokanimal-closed-until-april-15-after-5-puppies-contract-parvo/293-134dd88e-5654-4f99-be6f-08891d2426d3',
+  'Summary': 'Empty article or not available'}]
