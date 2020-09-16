@@ -1,0 +1,8 @@
+beautifulsoup4
+gensim
+xmltodict
+pandas
+datetime
+GoogleNews
+argparse
+email
