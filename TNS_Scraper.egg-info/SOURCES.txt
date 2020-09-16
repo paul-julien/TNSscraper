@@ -1,0 +1,6 @@
+README.md
+setup.py
+TNS_Scraper.egg-info/PKG-INFO
+TNS_Scraper.egg-info/SOURCES.txt
+TNS_Scraper.egg-info/dependency_links.txt
+TNS_Scraper.egg-info/top_level.txt

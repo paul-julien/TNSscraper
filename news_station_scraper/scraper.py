@@ -123,7 +123,7 @@ def parse_args():
         "--file", help="choose .txt and .html file name", default='news--results',
         required=False)
     parser.add_argument(
-        "--mail", help="who to send to ", default='pjburg@me.com',
+        "--mail", help="who to send to ", default='matt@mattlaslo.com',
         required=False)
     return parser.parse_args()
 
