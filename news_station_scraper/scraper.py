@@ -114,7 +114,7 @@ def parse_args():
         "--start_date", help="Start date for scraping",
         default=dateToday, required=False)
     parser.add_argument(
-        "--end_date", help="End date for scraping.", default=dateLastWeek,
+        "--end_date", help="End date for scraping.", default=dateToday,
         required=False)
     parser.add_argument(
         "--keyword", help="Keyword search", default='cannabis',
