@@ -10,11 +10,14 @@ def alexaRank(link):
     xml = urllib.request.urlopen('http://data.alexa.com/data?cli=10&dat=s&url={}'.format(link)).read()
 
     result= xmltodict.parse(xml)
-
+    del xml
     data = json.dumps(result).replace("@","")
     data_tojson = json.loads(data)
-    url = data_tojson["ALEXA"]["SD"][1]["POPULARITY"]["URL"]
-    alexaRank.rank= data_tojson["ALEXA"]["SD"][1]["POPULARITY"]["TEXT"]
+    try :
+         url = data_tojson["ALEXA"]["SD"][1]["POPULARITY"]["URL"]
+         alexaRank.rank= data_tojson["ALEXA"]["SD"][1]["POPULARITY"]["TEXT"]
+    except: 
+         alexaRank.rank= "too low to measure"
     return alexaRank.rank
 
 

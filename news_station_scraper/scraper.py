@@ -72,7 +72,7 @@ def send_email(start_date, end_date, file, mail, dfhtml):
     message = MIMEMultipart("alternative")
     message["Subject"] = "The News Station scrape test"
     message["From"] = 'newsstationscrapeproposal@gmail.com'
-    message["To"] =  mail
+    message["To"] =  ", ".join(mail)
 
     # Create the plain-text and HTML version of your message
     if start_date == end_date:
@@ -123,7 +123,7 @@ def parse_args():
         "--file", help="choose .txt and .html file name", default='news--results',
         required=False)
     parser.add_argument(
-        "--mail", help="who to send to ", default='matt@mattlaslo.com',
+        "--mail", help="who to send to ", default=['matt@mattlaslo.com', 'katherineashworth.brandt@gmail.com', 'lrucker@thenewsstation.com'],
         required=False)
     return parser.parse_args()
 
