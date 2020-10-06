@@ -26,7 +26,7 @@ python3.7 --version
 ## Run TNSScraper
 Setup using
 ```
-python3 ./setup.py install
+sudo python3 ./setup.py install
 ```
 Run with
 ```
